@@ -1,0 +1,10 @@
+# Tuyệt đối không commit
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
